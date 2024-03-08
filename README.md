@@ -4,7 +4,7 @@
 
 
 
-<a href="DanielJohansson1989.github.io">Daniel Johansson</a>
+<a href="https://danieljohansson1989.github.io">Daniel Johansson</a>
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
