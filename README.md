@@ -1,9 +1,10 @@
-# Who am I?
-- My name is Daniel Johansson
-- I live in Sweden
+<h1>My name is Daniel Johansson</h1>
+<h2>I live in Sweden</h2>
 - I'm a student at Campus Varberg, studying to become a software developer
-#
 
+
+
+<a href="DanielJohansson1989.github.io">Daniel Johansson</a>
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
