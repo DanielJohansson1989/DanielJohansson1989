@@ -1,10 +1,11 @@
-<h1>My name is Daniel Johansson</h1>
-<h2>I live in Sweden</h2>
-- I'm a student at Campus Varberg, studying to become a software developer
+# My name is Daniel Johansson
 
+- I'm studying to become a software developer at Campus Varberg, Sweden. </br>
+the course is called Systemutvecklare .NET and focus on backend development with C# and the .NET platform
+<br/>
 
-
-<a href="https://danieljohansson1989.github.io">Daniel Johansson</a>
+#### For CV check out the link below:
+<a href="https://danieljohansson1989.github.io">danieljohansson1989.github.io</a>
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
